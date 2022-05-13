@@ -1,0 +1,172 @@
+ticker,company_name,sector,subsector
+A,"Agilent Technologies, Inc.",Healthcare,Diagnostics & Research
+ABT,Abbott Laboratories,Healthcare,Medical Devices
+ADI,"Analog Devices, Inc.",Technology,Semiconductors
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities—Regulated Electric
+AGCO,AGCO Corporation,Industrials,Farm & Heavy Construction Machinery
+AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials
+AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors
+AMGN,Amgen Inc.,Healthcare,Drug Manufacturers—General
+AMKR,"Amkor Technology, Inc.",Technology,Semiconductors
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail
+ANF,Abercrombie & Fitch Co.,Consumer Cyclical,Apparel Retail
+APH,Amphenol Corporation,Technology,Electronic Components
+ARW,"Arrow Electronics, Inc.",Technology,Electronics & Computer Distribution
+AVGO,Broadcom Inc.,Technology,Semiconductors
+AVT,"Avnet, Inc.",Technology,Electronics & Computer Distribution
+AWR,American States Water Company,Utilities,Utilities—Regulated Water
+BA,The Boeing Company,Industrials,Aerospace & Defense
+BAX,Baxter International Inc.,Healthcare,Medical Instruments & Supplies
+BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies
+BIIB,Biogen Inc.,Healthcare,Drug Manufacturers—General
+BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services
+BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers—General
+BSX,Boston Scientific Corporation,Healthcare,Medical Devices
+BWA,BorgWarner Inc.,Consumer Cyclical,Auto Parts
+CARR,Carrier Global Corporation,Industrials,Building Products & Equipment
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery
+CDW,CDW Corporation,Technology,Information Technology Services
+CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products
+CLX,The Clorox Company,Consumer Defensive,Household & Personal Products
+CMI,Cummins Inc.,Industrials,Specialty Industrial Machinery
+CNHI,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery
+COKE,"Coca-Cola Consolidated, Inc.",Consumer Defensive,Beverages—Non-Alcoholic
+COP,ConocoPhillips,Energy,Oil & Gas E&P
+COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores
+CR,Crane Co.,Industrials,Specialty Industrial Machinery
+CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment
+CTAS,Cintas Corporation,Industrials,Specialty Business Services
+CTVA,"Corteva, Inc.",Basic Materials,Agricultural Inputs
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated
+D,"Dominion Energy, Inc.",Utilities,Utilities—Regulated Electric
+DAN,Dana Incorporated,Consumer Cyclical,Auto Parts
+DD,"DuPont de Nemours, Inc.",Basic Materials,Specialty Chemicals
+DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery
+DELL,Dell Technologies Inc.,Technology,Computer Hardware
+DHR,Danaher Corporation,Healthcare,Diagnostics & Research
+DUK,Duke Energy Corporation,Utilities,Utilities—Regulated Electric
+ECL,Ecolab Inc.,Basic Materials,Specialty Chemicals
+ED,"Consolidated Edison, Inc.",Utilities,Utilities—Regulated Electric
+EIX,Edison International,Utilities,Utilities—Regulated Electric
+EL,The Estée Lauder Companies Inc.,Consumer Defensive,Household & Personal Products
+ELY,Callaway Golf Company,Consumer Cyclical,Leisure
+EOG,"EOG Resources, Inc.",Energy,Oil & Gas E&P
+EQNR,Equinor ASA,Energy,Oil & Gas Integrated
+ES,Eversource Energy,Utilities,Utilities—Regulated Electric
+ETN,Eaton Corporation plc,Industrials,Specialty Industrial Machinery
+EVRG,"Evergy, Inc.",Utilities,Utilities—Regulated Electric
+FLEX,Flex Ltd.,Technology,Electronic Components
+FLS,Flowserve Corporation,Industrials,Specialty Industrial Machinery
+FTNT,"Fortinet, Inc.",Technology,Software—Infrastructure
+FTS,Fortis Inc.,Utilities,Utilities—Regulated Electric
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense
+GE,General Electric Company,Industrials,Specialty Industrial Machinery
+GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers—General
+GLW,Corning Incorporated,Technology,Electronic Components
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers
+GPS,"The Gap, Inc.",Consumer Cyclical,Apparel Retail
+GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution
+HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services
+HAS,"Hasbro, Inc.",Consumer Cyclical,Leisure
+HD,"The Home Depot, Inc.",Consumer Cyclical,Home Improvement Retail
+HES,Hess Corporation,Energy,Oil & Gas E&P
+HON,Honeywell International Inc.,Industrials,Conglomerates
+HPE,Hewlett Packard Enterprise Company,Technology,Communication Equipment
+HPQ,HP Inc.,Technology,Computer Hardware
+HUN,Huntsman Corporation,Basic Materials,Chemicals
+IBM,International Business Machines Corporation,Technology,Information Technology Services
+IMO,Imperial Oil Limited,Energy,Oil & Gas Integrated
+INTC,Intel Corporation,Technology,Semiconductors
+IR,Ingersoll Rand Inc.,Industrials,Specialty Industrial Machinery
+ITT,ITT Inc.,Industrials,Specialty Industrial Machinery
+ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery
+JBL,Jabil Inc.,Technology,Electronic Components
+JCI,Johnson Controls International plc,Industrials,Engineering & Construction
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers—General
+JNPR,"Juniper Networks, Inc.",Technology,Communication Equipment
+KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods
+KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials
+KMB,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products
+KO,The Coca-Cola Company,Consumer Defensive,Beverages—Non-Alcoholic
+LEA,Lear Corporation,Consumer Cyclical,Auto Parts
+LEN,Lennar Corporation,Consumer Cyclical,Residential Construction
+LHX,"L3Harris Technologies, Inc.",Industrials,Aerospace & Defense
+LII,Lennox International Inc.,Industrials,Specialty Industrial Machinery
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers—General
+LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense
+LNT,Alliant Energy Corporation,Utilities,Utilities—Regulated Electric
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail
+LRCX,Lam Research Corporation,Technology,Semiconductor Equipment & Materials
+LSCC,Lattice Semiconductor Corporation,Technology,Semiconductors
+LUV,Southwest Airlines Co.,Industrials,Airlines
+MCK,McKesson Corporation,Healthcare,Medical Distribution
+MDT,Medtronic plc,Healthcare,Medical Devices
+MG,"Mistras Group, Inc.",Industrials,Security & Protection Services
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+MMM,3M Company,Industrials,Conglomerates
+MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing
+MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers—General
+MRO,Marathon Oil Corporation,Energy,Oil & Gas E&P
+MRVL,"Marvell Technology, Inc.",Technology,Semiconductors
+MSFT,Microsoft Corporation,Technology,Software—Infrastructure
+MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment
+MU,"Micron Technology, Inc.",Technology,Semiconductors
+NEE,"NextEra Energy, Inc.",Utilities,Utilities—Regulated Electric
+NEU,NewMarket Corporation,Basic Materials,Specialty Chemicals
+NKE,"NIKE, Inc.",Consumer Cyclical,Footwear & Accessories
+NOVN,"Novan, Inc.",Healthcare,Biotechnology
+NUE,Nucor Corporation,Basic Materials,Steel
+NVDA,NVIDIA Corporation,Technology,Semiconductors
+NXPI,NXP Semiconductors N.V.,Technology,Semiconductors
+OC,Owens Corning,Industrials,Building Products & Equipment
+ON,ON Semiconductor Corporation,Technology,Semiconductors
+OSK,Oshkosh Corporation,Industrials,Farm & Heavy Construction Machinery
+OTIS,Otis Worldwide Corporation,Industrials,Specialty Industrial Machinery
+OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P
+PCAR,PACCAR Inc,Industrials,Farm & Heavy Construction Machinery
+PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages—Non-Alcoholic
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers—General
+PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products
+PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery
+PNW,Pinnacle West Capital Corporation,Utilities,Utilities—Regulated Electric
+PPL,PPL Corporation,Utilities,Utilities—Regulated Electric
+QCOM,QUALCOMM Incorporated,Technology,Semiconductors
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology
+RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing
+ROK,"Rockwell Automation, Inc.",Industrials,Specialty Industrial Machinery
+RTX,Raytheon Technologies Corporation,Industrials,Aerospace & Defense
+SANM,Sanmina Corporation,Technology,Electronic Components
+SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants
+SCS,Steelcase Inc.,Industrials,Business Equipment & Supplies
+SNA,Snap-on Incorporated,Industrials,Tools & Accessories
+SO,The Southern Company,Utilities,Utilities—Regulated Electric
+SR,Spire Inc.,Utilities,Utilities—Regulated Gas
+STM,STMicroelectronics N.V.,Technology,Semiconductors
+STX,Seagate Technology Holdings plc,Technology,Computer Hardware
+SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories
+SWKS,"Skyworks Solutions, Inc.",Technology,Semiconductors
+SYK,Stryker Corporation,Healthcare,Medical Devices
+T,AT&T Inc.,Communication Services,Telecom Services
+TDY,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments
+TEL,TE Connectivity Ltd.,Technology,Electronic Components
+TGT,Target Corporation,Consumer Defensive,Discount Stores
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research
+TOL,"Toll Brothers, Inc.",Consumer Cyclical,Residential Construction
+TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers
+TT,Trane Technologies plc,Industrials,Specialty Industrial Machinery
+TXN,Texas Instruments Incorporated,Technology,Semiconductors
+UNP,Union Pacific Corporation,Industrials,Railroads
+VC,Visteon Corporation,Consumer Cyclical,Auto Parts
+VFC,V.F. Corporation,Consumer Cyclical,Apparel Manufacturing
+VNT,Vontier Corporation,Technology,Scientific & Technical Instruments
+VSH,"Vishay Intertechnology, Inc.",Technology,Semiconductors
+WDC,Western Digital Corporation,Technology,Computer Hardware
+WEC,"WEC Energy Group, Inc.",Utilities,Utilities—Regulated Electric
+WHR,Whirlpool Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+WMT,Walmart Inc.,Consumer Defensive,Discount Stores
+WY,Weyerhaeuser Company,Real Estate,REIT—Specialty
+XEL,Xcel Energy Inc.,Utilities,Utilities—Regulated Electric
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated
+XRX,Xerox Holdings Corporation,Technology,Information Technology Services
+YORW,The York Water Company,Utilities,Utilities—Regulated Water
